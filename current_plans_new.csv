@@ -1,0 +1,4 @@
+id,name,planType,carrierName,level,hsaEligible,individualMedicalDeductibleInNetwork,familyMedicalDeductibleInNetwork,individualMedicalMoopInNetwork,familyMedicalMoopInNetwork,planCoinsuranceInNetwork,primaryCarePhysicianInNetwork,specialistInNetwork,individual_levels,family_levels
+P001,Oscar HMO,HMO,Oscar Silver 5000 Off Exchange Plan,silver,False,5000,10000,9200,18400,30,55,100,1,1
+P002,UnitedHealthcare HMO,HMO,UHC Silver‑X Copay Focus $0 Indiv Med Ded (Off‑Exchange Only),silver,False,0,0,9200,18400,30,35,90,3,3
+P003,KP GA Signature Gold 500 Ded/500 Rx Ded,HMO,Kaiser Permanente HMO network,silver,False,500,1000,8000,16000,30,20,40,4,4

@@ -1,0 +1,139 @@
+id,name,plan_type,hsa_eligible,individual_medical_deductible,family_medical_deductible,plan_coinsurance,premium,child_eyewear,child_eye_exam,child_dental,level,plan_levels
+70893GA0060014,Standard Gold SELECT Wellstar,HMO,False,1500,3000,25,449.73,0,0,0,gold,5.0
+70893GA0060013,Standard Silver SELECT Wellstar,HMO,False,5000,10000,40,431.27,0,0,0,silver,1.0
+70893GA0010077,Standard Silver,HMO,False,5000,10000,40,469.5,0,0,0,silver,1.0
+70893GA0010074,Elite Gold,HMO,False,0,0,30,547.68,0,0,0,gold,5.0
+70893GA0010071,Everyday Gold,HMO,False,750,1500,35,487.71,0,0,0,gold,5.0
+70893GA0010078,Standard Gold,HMO,False,1500,3000,25,489.59,0,0,0,gold,5.0
+70893GA0030017,Complete Silver + Vision + Adult Dental,HMO,False,6000,12000,40,488.41,0,0,0,silver,1.0
+70893GA0030070,Focused Silver + Vision + Adult Dental,HMO,False,6300,12600,50,487.16,0,0,0,silver,1.0
+70893GA0030020,Complete Gold + Vision + Adult Dental,HMO,False,1450,2900,20,516.59,0,0,0,gold,5.0
+70893GA0030074,Clear Gold + Vision + Adult Dental,HMO,False,900,1800,30,493.8,0,0,0,gold,5.0
+70893GA0030071,Everyday Gold + Vision + Adult Dental,HMO,False,750,1500,35,501.65,0,0,0,gold,5.0
+70893GA0030077,Standard Silver + Vision + Adult Dental,HMO,False,5000,10000,40,482.91,0,0,0,silver,1.0
+70893GA0030078,Standard Gold + Vision + Adult Dental,HMO,False,1500,3000,25,503.58,0,0,0,gold,5.0
+70893GA0030075,Elite Gold + Vision + Adult Dental,HMO,False,0,0,30,563.33,0,0,0,gold,5.0
+70893GA0010017,Complete Silver,HMO,False,6000,12000,40,474.84,0,0,0,silver,1.0
+70893GA0010020,Complete Gold,HMO,False,1450,2900,20,502.24,0,0,0,gold,5.0
+70893GA0010068,Clear Silver with $0 Insulin Options,HMO,False,6500,13000,0,465.81,0,0,0,silver,1.0
+70893GA0010070,Focused Silver,HMO,False,6300,12600,50,473.63,0,0,0,silver,1.0
+70893GA0010073,Clear Gold,HMO,False,900,1800,30,480.09,0,0,0,gold,5.0
+15105GA0020008,Connect Silver 7000 Indiv Med Deductible,HMO,False,7000,14000,50,537.45,0,0,0,silver,1.0
+15105GA0020007,Connect Silver 5000 Indiv Med Deductible,HMO,False,5000,10000,40,542.21,0,0,0,silver,1.0
+15105GA0020006,Connect Silver 3700 Indiv Med Deductible,HMO,False,3700,7400,40,538.32,0,0,0,silver,2.0
+15105GA0020010,Connect Silver 2700 Indiv Med Deductible Enhanced Diabetes Care,HMO,False,2700,5400,40,541.96,0,0,0,silver,4.0
+15105GA0020012,Connect Gold 500 Indiv Med Deductible,HMO,False,500,1000,20,711.35,0,0,0,gold,5.0
+45495GA0040006,Ambetter Health Solutions Gold 2500,EPO,False,2500,5000,20,518.24,0,0,0,gold,
+45495GA0040005,Ambetter Health Solutions Gold 1500,EPO,False,1500,3000,20,528.44,0,0,0,gold,
+45495GA0040011,Ambetter Health Solutions Silver 4500,EPO,False,4500,9000,30,418.13,0,0,0,silver,2.0
+45495GA0040007,Ambetter Health Solutions Gold 3000,EPO,False,3000,6000,20,494.22,0,0,0,gold,
+45495GA0040008,Ambetter Health Solutions Gold 3500,EPO,False,3500,7000,20,512.67,0,0,0,gold,
+45495GA0040010,Ambetter Health Solutions Silver 3500,EPO,False,3500,7000,30,428.06,0,0,0,silver,2.0
+45495GA0040009,Ambetter Health Solutions Silver 1350,EPO,False,1350,2700,50,450.28,0,0,0,silver,
+45495GA0040012,Ambetter Health Solutions Silver 5500,EPO,False,5500,11000,50,429.47,0,0,0,silver,
+45495GA0040014,Ambetter Health Solutions Silver HSA 4000,EPO,True,4000,8000,20,423.77,0,0,0,silver,2.0
+45495GA0040013,Ambetter Health Solutions Silver Copay HSA 4000,EPO,True,4000,8000,30,422.29,0,0,0,silver,2.0
+45495GA0050005,Ambetter Health Solutions Gold 1500 + Vision + Adult Dental,EPO,False,1500,3000,20,543.69,0,0,0,gold,
+45495GA0050006,Ambetter Health Solutions Gold 2500 + Vision + Adult Dental,EPO,False,2500,5000,20,533.2,0,0,0,gold,
+45495GA0050008,Ambetter Health Solutions Gold 3500 + Vision + Adult Dental,EPO,False,3500,7000,20,527.47,0,0,0,gold,
+45495GA0050007,Ambetter Health Solutions Gold 3000 + Vision + Adult Dental,EPO,False,3000,6000,20,508.48,0,0,0,gold,
+45495GA0050009,Ambetter Health Solutions Silver 1350 + Vision + Adult Dental,EPO,False,1350,2700,50,463.28,0,0,0,silver,
+45495GA0050012,Ambetter Health Solutions Silver 5500 + Vision + Adult Dental,EPO,False,5500,11000,50,441.87,0,0,0,silver,
+45495GA0050010,Ambetter Health Solutions Silver 3500 + Vision + Adult Dental,EPO,False,3500,7000,30,440.42,0,0,0,silver,2.0
+45495GA0050013,Ambetter Health Solutions Silver Copay HSA 4000 + Vision + Adult Dental,EPO,True,4000,8000,30,434.48,0,0,0,silver,2.0
+45495GA0050014,Ambetter Health Solutions Silver HSA 4000 + Vision + Adult Dental,EPO,True,4000,8000,20,436.01,0,0,0,silver,2.0
+45495GA0050011,Ambetter Health Solutions Silver 4500 + Vision + Adult Dental,EPO,False,4500,9000,30,430.2,0,0,0,silver,2.0
+45334GA0020001,Anthem Silver Blue Value 3500 ($0 Virtual Visits + $0 Select Drugs),HMO,False,3500,7000,40,441.13,0,0,0,silver,2.0
+45334GA0020002,Anthem Silver Blue Value 4000 ($0 Virtual Visits + $0 Select Drugs),HMO,False,4000,8000,40,435.72,0,0,0,silver,2.0
+45334GA0020004,Anthem Silver Blue Value 4500 ($0 Virtual Visits + $0 Select Drugs),HMO,False,4500,9000,40,434.21,0,0,0,silver,2.0
+45334GA0020012,Anthem Silver Blue Value 5900/40%,HMO,False,5900,11800,40,436.68,0,0,0,silver,1.0
+45334GA0020005,Anthem Gold Blue Value 2550 ($0 Virtual Visits + $0 Select Drugs),HMO,False,2550,5100,15,501.78,0,0,0,gold,5.0
+49046GA0700027,Anthem Silver Pathway Guided Access 5350 ($0 Virtual PCP+$0 Select Drugs),HMO,False,5350,10700,20,510.1,0,0,0,silver,1.0
+49046GA0700019,Anthem Gold Pathway Guided Access 1350 ($0 Virtual PCP+$0 Select Drugs),HMO,False,1350,2700,10,582.43,0,0,0,gold,5.0
+49046GA0700060,Anthem Silver Pathway Guided Access 5900/40%,HMO,False,5900,11800,40,512.18,0,0,0,silver,1.0
+49046GA0700008,Anthem Silver Pathway Guided Access 4500 ($0 Virtual PCP+$0 Select Drugs),HMO,False,4500,9000,25,513.08,0,0,0,silver,2.0
+49046GA0700006,Anthem Silver Pathway Guided Access 2500 ($0 Virtual PCP+$0 Select Drugs),HMO,False,2500,5000,25,531.96,0,0,0,silver,4.0
+49046GA0700017,Anthem Silver Pathway Guided Access 3900 ($0 Virtual PCP+$0 Select Drugs),HMO,False,3900,7800,25,517.88,0,0,0,silver,2.0
+49046GA0700054,Anthem Silver Pathway PCP Copay Choice 4000 ($0 Virtual PCP+$0 Select Drugs),HMO,False,4000,8000,30,491.02,0,0,0,silver,2.0
+49046GA0700055,Anthem Gold Pathway PCP Copay Choice 1200 ($0 Virtual PCP+$0 Select Drugs),HMO,False,1200,2400,20,550.05,0,0,0,gold,5.0
+60224GA0020002,Core Gold 1500 $10 Generic Drugs Adult Vision & Fitness,HMO,False,1500,3000,25,644.49,0,0,0,gold,5.0
+60224GA0010014,Healthy Heart Gold 1500 $0 Select Drugs & Specialized Services,HMO,False,1500,3000,30,663.35,0,0,0,gold,5.0
+60224GA0010002,Core Gold 1500 $10 Generic Drugs,HMO,False,1500,3000,25,640.17,0,0,0,gold,5.0
+60224GA0020012,Diabetes Gold 1100 $0 Select Drugs & Specialized Services Adult Vision & Fitness,HMO,False,1100,2200,30,680.87,0,0,0,gold,5.0
+60224GA0010012,Diabetes Gold 1100 $0 Select Drugs & Specialized Services,HMO,False,1100,2200,30,676.54,0,0,0,gold,5.0
+60224GA0010011,Gold 1500 $15 Generic Drugs,HMO,False,1500,3000,25,657.54,0,0,0,gold,5.0
+60224GA0020014,Healthy Heart Gold 1500 $0 Select Drugs & Specialized Services Adult Vision & Fitness,HMO,False,1500,3000,30,667.69,0,0,0,gold,5.0
+60224GA0020011,Gold 1500 $15 Generic Drugs Adult Vision & Fitness,HMO,False,1500,3000,25,661.87,0,0,0,gold,5.0
+60224GA0010003,Low Premium Silver 6000 $3 Generic Drugs,HMO,False,6000,12000,40,509.36,0,0,0,silver,1.0
+60224GA0010010,Silver 5000 $20 Generic Drugs,HMO,False,5000,10000,40,521.79,0,0,0,silver,1.0
+60224GA0020010,Silver 5000 $20 Generic Drugs Adult Vision & Fitness,HMO,False,5000,10000,40,526.12,0,0,0,silver,1.0
+60224GA0020003,Low Premium Silver 6000 $3 Generic Drugs Adult Vision & Fitness,HMO,False,6000,12000,40,513.69,0,0,0,silver,1.0
+60224GA0010016,HDHP Preventive Silver 5500 $0 Select Drugs,HMO,True,5500,11000,0,584.77,0,0,0,silver,1.0
+60224GA0020013,Diabetes Silver 4000 $0 Select Drugs & Specialized Services Adult Vision & Fitness,HMO,False,4000,8000,50,535.46,0,0,0,silver,2.0
+60224GA0010013,Diabetes Silver 4000 $0 Select Drugs & Specialized Services,HMO,False,4000,8000,50,531.13,0,0,0,silver,2.0
+60224GA0020015,Healthy Heart Silver 4500 $0 Select Drugs & Specialized Services Adult Vision & Fitness,HMO,False,4500,9000,50,529.99,0,0,0,silver,2.0
+60224GA0010015,Healthy Heart Silver 4500 $0 Select Drugs & Specialized Services,HMO,False,4500,9000,50,525.65,0,0,0,silver,2.0
+58081GA0010079,Silver 5000 HSA Off Exchange,HMO,True,5000,10000,0,379.34,50,0,0,silver,1.0
+58081GA0010075,Silver 3500 HSA Off Exchange,HMO,True,3500,7000,20,376.57,50,0,0,silver,2.0
+58081GA0010074,Silver 3000 Off Exchange,HMO,False,3000,6000,25,385.67,50,0,0,silver,2.0
+58081GA0010081,Gold 0 Off Exchange,HMO,False,0,0,20,528.67,50,0,0,gold,5.0
+58081GA0010078,Silver 5000 Off Exchange,HMO,False,5000,10000,30,377.6,50,0,0,silver,1.0
+58081GA0010082,Buena Salud Dorado 1500 (fuera del mercado),HMO,False,1500,3000,30,499.86,50,0,0,gold,5.0
+58081GA0010080,Silver 7000 Off Exchange,HMO,False,7000,14000,25,373.22,50,0,0,silver,1.0
+58081GA0010085,Gold 3525 HSA Off Exchange,HMO,True,3525,7050,0,487.61,50,0,0,gold,5.0
+58081GA0010084,Gold 2000 Off Exchange,HMO,False,2000,4000,20,507.61,50,0,0,gold,5.0
+58081GA0010086,Gold 4000 Off Exchange,HMO,False,4000,8000,25,476.05,50,0,0,gold,5.0
+58081GA0010083,Gold 1500 MultiCondition Care Off Exchange,HMO,False,1500,3000,30,504.53,50,0,0,gold,5.0
+58081GA0010077,Silver 3750 MultiCondition Care Off Exchange,HMO,False,3750,7500,40,383.61,50,0,0,silver,2.0
+58081GA0010076,Buena Salud Plateado 3750 (fuera del mercado),HMO,False,3750,7500,35,380.8,50,0,0,silver,2.0
+58081GA0010035,Gold Elite Saver Plus,HMO,False,0,0,20,524.37,50,0,0,gold,5.0
+58081GA0010045,Silver Simple Diabetes,HMO,False,6500,13000,50,448.26,50,0,0,silver,1.0
+58081GA0010053,Gold Classic Standard,HMO,False,1500,3000,25,481.8,50,0,0,gold,5.0
+58081GA0010025,Silver Simple PCP Saver,HMO,False,5750,11500,40,444.22,50,0,0,silver,1.0
+58081GA0010055,Buena Salud Plateado Estandar Clasico,HMO,False,5000,10000,40,444.93,50,0,0,silver,1.0
+58081GA0010052,Silver Classic Standard,HMO,False,5000,10000,40,444.93,50,0,0,silver,1.0
+58081GA0010015,Silver Simple,HMO,False,4400,8800,50,446.79,50,0,0,silver,2.0
+58081GA0010030,Silver Elite Saver Plus,HMO,False,0,0,50,451.92,50,0,0,silver,3.0
+89942GA0050022,KP GA Signature Gold 1000 Ded/500 Rx Ded,HMO,False,1000,2000,30,491.08,0,20,0,gold,5.0
+89942GA0050016,KP GA Signature Gold 500 Ded/500 Rx Ded,HMO,False,500,1000,30,498.48,0,20,0,gold,5.0
+89942GA0050027,KP GA Signature Gold 2000 Ded/500 Rx Ded,HMO,False,2000,4000,35,455.18,0,20,0,gold,5.0
+89942GA0050017,KP GA Signature Silver 3400 Ded/500 Rx Ded,HMO,False,3400,6800,40,466.69,0,30,0,silver,2.0
+89942GA0050025,KP GA Signature Silver 4500/35,HMO,False,4500,9000,35,452.2,0,35,0,silver,2.0
+89942GA0050031,KP GA Signature Silver Virtual Complete 5000,HMO,False,5000,10000,30,432.68,0,40,0,silver,1.0
+89942GA0070016,KP GA Signature Gold 500 Ded/500 Rx Ded,HMO,False,500,1000,30,499.87,0,20,0,gold,5.0
+89942GA0070022,KP GA Signature Gold 1000 Ded/500 Rx Ded,HMO,False,1000,2000,30,492.46,0,20,0,gold,5.0
+89942GA0070027,KP GA Signature Gold 2000 Ded/500 Rx Ded,HMO,False,2000,4000,35,456.45,0,20,0,gold,5.0
+89942GA0070033,KP GA Signature Silver Virtual Complete 5500,HMO,False,5500,11000,40,381.79,0,50,0,silver,1.0
+89942GA0070025,KP GA Signature Silver 4500/35,HMO,False,4500,9000,35,413.03,0,35,0,silver,2.0
+89942GA0070017,KP GA Signature Silver 3400 Ded/500 Rx Ded,HMO,False,3400,6800,40,426.27,0,30,0,silver,2.0
+89942GA0070031,KP GA Signature Silver Virtual Complete 5000,HMO,False,5000,10000,30,395.21,0,40,0,silver,1.0
+89942GA0150004,KP GA Signature Standard Silver 5000/40,HMO,False,5000,10000,40,406.68,0,40,0,silver,1.0
+89942GA0130004,KP GA Signature Standard Silver 5000/40,HMO,False,5000,10000,40,445.24,0,40,0,silver,1.0
+89942GA0130002,KP GA Signature Standard Gold 1500/30,HMO,False,1500,3000,25,482.11,0,30,0,gold,5.0
+89942GA0150002,KP GA Signature Standard Gold 1500/30,HMO,False,1500,3000,25,483.46,0,30,0,gold,5.0
+43802GA0040030,UHC Gold Standard,HMO,False,1500,3000,25,712.34,25,0,0,gold,5.0
+43802GA0040031,UHC Silver Copay Focus $0 Indiv Med Ded,HMO,False,0,0,30,663.29,30,0,0,silver,3.0
+43802GA0040036,UHC Silver Standard,HMO,False,5000,10000,40,656.69,40,0,0,silver,1.0
+43802GA0040034,UHC Silver Value ($3 Tier 2 Rx),HMO,False,3000,6000,40,660.4,40,0,0,silver,2.0
+43802GA0040044,UHC Silver Advantage ($3 Tier 2 Rx),HMO,False,2750,5500,30,663.53,30,0,0,silver,4.0
+43802GA0040045,UHC Gold Value,HMO,False,1500,3000,20,700.88,20,0,0,gold,5.0
+43802GA0040054,UHC Gold Advantage,HMO,False,1100,2200,20,739.1,20,0,0,gold,5.0
+43802GA0070001,"UHC Silver Advantage+ ($3 Tier 2 Rx, Dental + Vision)",HMO,False,2750,5500,30,680.17,30,0,0,silver,4.0
+43802GA0040047,UHC Gold Copay Focus $0 Indiv Med Ded,HMO,False,0,0,45,730.87,45,0,0,gold,5.0
+43802GA0070004,"UHC Silver Value+ ($3 Tier 2 Rx, Dental + Vision)",HMO,False,3000,6000,40,677.05,40,0,0,silver,2.0
+43802GA0070005,UHC Gold Advantage+ (Dental + Vision),HMO,False,1100,2200,20,753.71,20,0,0,gold,5.0
+43802GA0040049,"UHC Silver-X Advantage $2,750 Indiv Ded ($3 Tier 2 Rx) (Off-Exchange Only)",HMO,False,2750,5500,30,575.97,30,0,0,silver,4.0
+43802GA0040053,UHC Silver-X Copay Focus $0 Indiv Med Ded (Off-Exchange Only),HMO,False,0,0,30,591.86,30,0,0,silver,3.0
+43802GA0040052,UHC Silver-X Value HSA (Off-Exchange Only),HMO,True,3300,6600,30,560.55,30,0,0,silver,2.0
+43802GA0040051,UHC Silver-X Standard (Off-Exchange Only),HMO,False,5000,10000,40,574.31,40,0,0,silver,1.0
+43802GA0040050,UHC Silver-X Value ($3 Tier 2 Rx) (Off-Exchange Only),HMO,False,3000,6000,40,564.71,50,0,0,silver,2.0
+82824GA0110025,Silver S: Aetna network + $0 MinuteClinic + $0 CVS Health Virtual Primary Care,HMO,False,5000,10000,40,508.32,10,10,0,silver,1.0
+82824GA0110030,Gold 3 Advanced: Aetna network + $0 MinuteClinic + $0 CVS Health Virtual Primary Care,HMO,False,895,1790,45,614.61,10,10,0,gold,5.0
+82824GA0110013,Silver 5 Advanced: Aetna network + $0 MinuteClinic + $0 CVS Health Virtual Primary Care,HMO,False,7495,14990,50,505.49,10,10,0,silver,1.0
+82824GA0110019,Gold S: Aetna network + $0 MinuteClinic + $0 CVS Health Virtual Primary Care,HMO,False,1500,3000,25,617.22,10,10,0,gold,5.0
+82824GA0110039,Silver 10 Advanced: $0 PCP + Aetna network + $0 MinuteClinic + $0 CVS Health Virtual Primary Care,HMO,False,0,0,0,531.66,10,10,0,silver,3.0
+82824GA0110040,Silver 10 Advanced: $0 PCP + Aetna network + $0 MinuteClinic + Adult Dental + Vision,HMO,False,0,0,0,555.38,10,10,0,silver,3.0
+82824GA0110036,Gold 10 Advanced: $0 PCP + Aetna network + $0 MinuteClinic + Adult Dental + Vision,HMO,False,0,0,0,684.94,10,10,0,gold,5.0
+82824GA0110035,Gold 10 Advanced: $0 PCP + Aetna network + $0 MinuteClinic + $0 CVS Health Virtual Primary Care,HMO,False,0,0,0,655.69,10,10,0,gold,5.0
+82824GA0110038,Gold 3 Advanced: Aetna network + $0 MinuteClinic + Adult Dental + Vision,HMO,False,895,1790,45,642.04,10,10,0,gold,5.0
+82824GA0110042,Silver S: Aetna network + $0 MinuteClinic + $0 CVS Health Virtual Primary Care + Adult Dental+Vision,HMO,False,5000,10000,40,531.0,10,10,0,silver,1.0
